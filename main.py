@@ -10,7 +10,7 @@ from hh import keep_alive
 sto = {"stop": False}
 token = "6589600350:AAGhoMxRdbclKtiWZUbX9FUFcNweZ5yQvKI"
 id = 926877758
-channel_username = "@cc_stripe"
+channel_username = "@HHHH9N"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 @bot.message_handler(commands=["stop"])
